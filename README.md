@@ -2,7 +2,7 @@
 Calculate multichannel IR files through deconvolution of a recorded sine sweep, by Enrique Tomás and Ben Wesch at Tangible Music Lab Linz. 
 
 Examples and Jupyter notebook included to illustrate the process.
-To open the notebook, you need to have Jupyter installed (see https://jupyter.org/install). Some python libraries are also needed: numpy, scipy, wavio, matplot and warnings. Install them with pip or conda if you get the typical "module not found error". 
+To open the notebook, you need to have Python (https://www.python.org/) and Jupyter previously installed (see https://jupyter.org/install). Some python libraries are also needed: numpy, scipy, wavio, matplot and warnings. Install them with pip or conda if you get the typical "module not found error". 
 
 ## Instructions for Jupyter notebook
 * Download or clone this repository to a new folder on your computer. 
