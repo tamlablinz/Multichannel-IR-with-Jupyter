@@ -1,5 +1,5 @@
 # IR-multichannel
-Calculate multichannel IR files through deconvolution of a recorded sine sweep
+Calculate multichannel IR files through deconvolution of a recorded sine sweep, by Enrique Tomás and Ben Wesch at Tangible Music Lab Linz. 
 
 Examples and Jupyter notebook included to illustrate the process.
 To open the notebook, you need to have Jupyter installed (see https://jupyter.org/install).
